@@ -17,7 +17,6 @@ public class cards {
                     answer = "No";
                 }
             }
-
             return answer;
         }
 }
